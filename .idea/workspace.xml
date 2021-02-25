@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6e3f2a4-136a-4e6b-9cd4-8036fb3fc016" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/013function/013function.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013function/013function.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013function/013function.xcodeproj/xcuserdata/yanerrol.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013function/013function/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04 - Pointers/04 - Pointers.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04 - Pointers/04 - Pointers.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/04 - Pointers.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04 - Pointers/04 - Pointers.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04 - Pointers/04 - Pointers.xcodeproj/xcuserdata/yanerrol.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04 - Pointers/04 - Pointers/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 - Structures/05 - Structures.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 - Structures/05 - Structures.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/05 - Structures.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 - Structures/05 - Structures.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 - Structures/05 - Structures.xcodeproj/xcuserdata/yanerrol.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 - Structures/05 - Structures/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 - Arrays/06 - Arrays.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 - Arrays/06 - Arrays.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/06 - Arrays.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 - Arrays/06 - Arrays.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 - Arrays/06 - Arrays.xcodeproj/xcuserdata/yanerrol.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 - Arrays/06 - Arrays/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 - Storages/07 - Storages.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 - Storages/07 - Storages.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/07 - Storages.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 - Storages/07 - Storages.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 - Storages/07 - Storages.xcodeproj/xcuserdata/yanerrol.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 - Storages/07 - Storages/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 - Storages/07 - Storages/modulo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 - Storages/07 - Storages/modulo.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 - PointersVsArrays/08 - PointersVsArrays.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 - PointersVsArrays/08 - PointersVsArrays.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/08 - PointersVsArrays.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 - PointersVsArrays/08 - PointersVsArrays.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 - PointersVsArrays/08 - PointersVsArrays.xcodeproj/xcuserdata/yanerrol.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 - PointersVsArrays/08 - PointersVsArrays/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 - ArrayOfPointers/09 - ArrayOfPointers.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 - ArrayOfPointers/09 - ArrayOfPointers.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/09 - ArrayOfPointers.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 - ArrayOfPointers/09 - ArrayOfPointers.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 - ArrayOfPointers/09 - ArrayOfPointers.xcodeproj/xcuserdata/yanerrol.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 - ArrayOfPointers/09 - ArrayOfPointers/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 - Pointer to Pointer/10 - Pointer to Pointer.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 - Pointer to Pointer/10 - Pointer to Pointer.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/10 - Pointer to Pointer.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 - Pointer to Pointer/10 - Pointer to Pointer.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 - Pointer to Pointer/10 - Pointer to Pointer.xcodeproj/xcuserdata/yanerrol.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 - Pointer to Pointer/10 - Pointer to Pointer/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 - References/11 - References.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 - References/11 - References.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/11 - References.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 - References/11 - References.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 - References/11 - References.xcodeproj/xcuserdata/yanerrol.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 - References/11 - References/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12 - Parameter by reference/12 - Parameter by reference.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12 - Parameter by reference/12 - Parameter by reference.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/12 - Parameter by reference.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12 - Parameter by reference/12 - Parameter by reference.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12 - Parameter by reference/12 - Parameter by reference.xcodeproj/xcuserdata/yanerrol.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12 - Parameter by reference/12 - Parameter by reference/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 - ReturningValuesOfReference/13 - returningValuesOfReference.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 - ReturningValuesOfReference/13 - returningValuesOfReference.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/13 - returningValuesOfReference.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 - ReturningValuesOfReference/13 - returningValuesOfReference.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 - ReturningValuesOfReference/13 - returningValuesOfReference.xcodeproj/xcuserdata/yanerrol.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 - ReturningValuesOfReference/13 - returningValuesOfReference/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 - Date and Time structs/14 - Date and Time structs.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 - Date and Time structs/14 - Date and Time structs.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/14 - Date and Time structs.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 - Date and Time structs/14 - Date and Time structs.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 - Date and Time structs/14 - Date and Time structs.xcodeproj/xcuserdata/yanerrol.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 - Date and Time structs/14 - Date and Time structs/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15 - FileIO/15 - FileIO.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15 - FileIO/15 - FileIO.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/15 - FileIO.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15 - FileIO/15 - FileIO.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15 - FileIO/15 - FileIO.xcodeproj/xcuserdata/yanerrol.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15 - FileIO/15 - FileIO/File.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15 - FileIO/15 - FileIO/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 - Typecasting/16 - Typecasting.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 - Typecasting/16 - Typecasting.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/16 - Typecasting.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 - Typecasting/16 - Typecasting.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 - Typecasting/16 - Typecasting.xcodeproj/xcuserdata/yanerrol.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 - Typecasting/16 - Typecasting/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 - Data Structs/17 - Data Structs.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 - Data Structs/17 - Data Structs.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/17 - Data Structs.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 - Data Structs/17 - Data Structs.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 - Data Structs/17 - Data Structs.xcodeproj/xcuserdata/yanerrol.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 - Data Structs/17 - Data Structs/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18 - Data Struct Pointer/18 - Data Struct Pointer.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18 - Data Struct Pointer/18 - Data Struct Pointer.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/18 - Data Struct Pointer.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18 - Data Struct Pointer/18 - Data Struct Pointer.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18 - Data Struct Pointer/18 - Data Struct Pointer.xcodeproj/xcuserdata/yanerrol.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18 - Data Struct Pointer/18 - Data Struct Pointer/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19 - Type enum/19 - Type enum.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19 - Type enum/19 - Type enum.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/19 - Type enum.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19 - Type enum/19 - Type enum.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19 - Type enum/19 - Type enum.xcodeproj/xcuserdata/yanerrol.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19 - Type enum/19 - Type enum/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 - Inline Functions/20 - Inline Functions.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 - Inline Functions/20 - Inline Functions.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/20 - Inline Functions.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 - Inline Functions/20 - Inline Functions.xcodeproj/xcuserdata/vicboma.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 - Inline Functions/20 - Inline Functions.xcodeproj/xcuserdata/yanerrol.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 - Inline Functions/20 - Inline Functions/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C++_Tutorials/.struct_cls.cpp.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C++_Tutorials/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C++_Tutorials/abstractFun.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C++_Tutorials/afile.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++_Tutorials/APUE_notes/codes/APUE.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp_tutorial.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp_tutorial.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp_tutorial.xcodeproj/xcuserdata/yanerrol.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp_tutorial/main.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gtPgqyvyDpuiElXgSHCFO2v3NI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6e3f2a4-136a-4e6b-9cd4-8036fb3fc016" name="Default Changelist" comment="" />
+      <created>1598931029147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598931029147</updated>
+      <workItem from="1598931033592" duration="550000" />
+      <workItem from="1599117182654" duration="851000" />
+      <workItem from="1602816381193" duration="737000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
